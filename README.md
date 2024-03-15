@@ -1,1 +1,1 @@
-# ads-508-final-project
+# sc-cosmetics
