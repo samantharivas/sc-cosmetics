@@ -18,6 +18,18 @@ The state of California requires the manufacturers of cosmetic products to repor
 
 SC Cosmetics allows users to make purchases through links provided in the app, making clean products accessible. Not many people are taking advantage of this feature and our company aims to identify marketing and recommendation tactics that increase the number of people who place orders through the app. 
 
+## Goals
+- Develop a recommendation system within the SC Cosmetic app to help users identify cosmetic products free from potentially harmful ingredients.
+- Create a skin quiz feature integrated into the app to provide personalized skincare product recommendations based on users’ skin type, concerns, and preferences. 
+- Enhance transparency by providing comprehensive information about chemicals present in cosmetic products, including a product ranking, and educating consumers about their potential effects on skin health.
+- Improve accessibility by allowing consumers to purchase recommended skin care products via the SC Cosmetic app, facilitating a seamless shopping experience for users. 
+- Improve the accuracy of product recommendations by analyzing user interaction on cosmetic products and integrating consumer propensity to purchase data. 
+
+## Non-Goals
+- Providing medical advice or diagnosis based on cosmetic ingredients in products. 
+- Directly manufacturing cosmetic products sold through the SC Cosmetic app. 
+Analyzing customer behavior beyond the scope of cosmetic product preference and purchases. 
+
 ## Overview
 The repository consists of the following components:
 - Raw data
@@ -44,5 +56,10 @@ The repository consists of the following components:
 - Data modeling
 
 ## References
+Awan, A. A. (n.d.). Cosmetics Datasets. Kaggle. Retrieved April 5, 2024, from https://www.kaggle.com/datasets/kingabzpro/cosmetics-datasets?resource=download
+
+Chemicals in Cosmetics. (n.d.). Data.gov. Retrieved April 5, 2024, from https://catalog.data.gov/dataset/chemicals-in-cosmetics-8c29f
+
+P, B. (n.d.). Customer propensity to purchase dataset. Kaggle. Retrieved April 5, 2024, from https://www.kaggle.com/datasets/benpowis/customer-propensity-to-purchase-data
 
 ## Presentation
