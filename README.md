@@ -61,5 +61,3 @@ Awan, A. A. (n.d.). Cosmetics Datasets. Kaggle. Retrieved April 5, 2024, from ht
 Chemicals in Cosmetics. (n.d.). Data.gov. Retrieved April 5, 2024, from https://catalog.data.gov/dataset/chemicals-in-cosmetics-8c29f
 
 P, B. (n.d.). Customer propensity to purchase dataset. Kaggle. Retrieved April 5, 2024, from https://www.kaggle.com/datasets/benpowis/customer-propensity-to-purchase-data
-
-## Presentation
